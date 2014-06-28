@@ -1,0 +1,8 @@
+Bottom panel = #333333 (51,51,51)
+size panel = #8B9588 (139, 149, 136)
+Item font size: 40
+category font: size 40, color #666666 (102, 102, 102)
+top category active font: size 46, color #FF3300 (255, 51, 0)
+top category title: size 46, color #FFFF66 (255, 255, 51)
+selected item : size 40, color #FFFF66
+
